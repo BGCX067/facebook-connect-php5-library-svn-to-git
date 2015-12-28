@@ -1,0 +1,13 @@
+#summary Quick Start Facebook Connect PHP API library
+
+= Introduction =
+
+Welcome to the Quick Start Facebook Connect PHP API library. This is an optimized version of Facebook's Runaround demo that allows you to quickly implement the FB Connect PHP library onto your website.
+
+= Details =
+
+Visit the following links to learn more about this API library ...
+
+http://www.pakt.com/pakt/?id=5e17b48f5679ab47&t=How_to_add_Facebook_Connect_to_your_website_using_PHP_API
+
+http://pakt.com/scripts/facebook/connect/index.php
